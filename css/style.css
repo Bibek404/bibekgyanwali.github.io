@@ -1,0 +1,70 @@
+body{
+    background-color: mediumspringgreen;
+    margin: 0px;
+    padding: 0px;
+    margin: 25px;
+}
+.image{
+    width: 75px;
+    height: 75px;
+    float: left;
+    border-radius: 50%;
+    
+
+}
+.anchors{
+    float: right;
+    font-family: cursive;
+
+
+}
+.anchors > a{
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Architects Daughter', cursive;;
+    border: 2px solid whitesmoke;
+    border-radius: 90px;
+}
+.heading{
+    text-align: center;
+    color: whitesmoke;
+    /* float: left; */
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 22px;
+    display: block;
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+.anchors > a:hover{
+    background: rgb(51, 240, 193);
+    color:  rgb(243, 148, 59);
+}
+div > .heading{
+    margin: 50px;
+
+}
+.photo{
+    width: 100%;
+    position: center;
+    border: 4px solid silver;
+    border-radius: 15px;
+    
+}
+p#intro{
+    font-family: 'Sansita Swashed', cursive;
+    color: honeydew;
+}
+.favicon{
+    border-radius: 50%;
+}
+#footer{
+    text-align: center;
+    color: palegoldenrod;
+
+}
+
+
+
